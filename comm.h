@@ -1,6 +1,6 @@
 
 //constant definition
-#define URL "http://www.cc.puv.fi/~e1900313/php/test.php"
+#define URL "http://www.cc.puv.fi/~e1900296/php/test.php"
 
 //function declaration
 
