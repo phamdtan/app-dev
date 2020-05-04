@@ -12,7 +12,7 @@ else
     $fp = fopen($file, "w");
 fwrite($fp, $record);
 fclose($fp);
-echo "From e1900313\n";
+echo "From e1900296\n";
 ?>
 
 
