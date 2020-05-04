@@ -42,10 +42,10 @@ List of Contents
 	test.php		contains php functions.
 	
 5.Contact information
-	My name: Nguyen Hoang
+	My name: Pham Tan
 	School: Vaasa university of applied sciences.
-	Number phone: 0911367398
-	Address: C35 22-24 Ahventie, 65200 Vaasa
+	Number phone: 0466144665
+	Address: 62 Palosaarentie H37, 65200 Vaasa
 
    ** Copyright**
 	This application follows GPLv2 coppyright.
